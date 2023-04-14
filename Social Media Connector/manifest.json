@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Social Media Connector",
+  "version": "1.0",
+  "description": "Automatically converts phone numbers into WhatsApp links.",
+  "permissions": ["activeTab", "storage"],
+  "icons": {
+    "48": "images/whatsapp/icon48.png",
+    "128": "images/whatsapp/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "48": "images/whatsapp/icon48.png",
+      "128": "images/whatsapp/icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
