@@ -2,7 +2,7 @@
 
 # SocialMedia
 Chrome extension that allows people to add phone numbers & social media usernames directly from the webrowser to:
-WhatsApp, Instagram, Twitter and other social media
+WhatsApp, Instagram, Twitter and other social media with a single click
 
 
 To do:
