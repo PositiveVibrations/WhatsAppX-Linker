@@ -1,4 +1,4 @@
-![Logo](https://github.com/PositiveVibrations/SocialMedia/blob/main/Social%20Media%20Connector/images/logo/logo.png?raw=true)
+![Logo](https://github.com/PositiveVibrations/SocialMediaX/blob/main/SocialMediaX/images/logo/logo.png?raw=true)
 
 # SocialMediaX
 Chrome extension that allows people to add phone numbers & social media usernames directly from the webrowser to:
