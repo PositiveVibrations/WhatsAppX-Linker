@@ -2,7 +2,7 @@
 
 # WhatsAppX
 
-Chrome extension that allows adding phone numbers & social media usernames directly from chrome to:
+Chrome extension that allows adding phone numbers & social media usernames directly from chrome to whatsapp.
 <hr>
 <b>Features:</b>
 <p>- Currently setup and working for WhatsApp Messenger.
