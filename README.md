@@ -1,4 +1,4 @@
-![Logo](https://github.com/PositiveVibrations/SocialMediaX/blob/main/WhatsAppLinker/images/logo/logo.png?raw=true)
+![Logo](https://github.com/PositiveVibrations/WhatsAppX/blob/main/images/logo/logo.png?raw=true)
 
 # WhatsAppX
 
