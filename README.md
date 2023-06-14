@@ -4,7 +4,7 @@
 
 Chrome extension that allows adding phone numbers & social media usernames directly from chrome to:
 <hr>
-Features:
+<b>Features:<b/>
 <p>-Currently setup and working for WhatsApp Messenger.
 <p>-Automatically detects any phone numbers on a website and link it to whatsapp with one click.
 <p>-Toggles on and off
