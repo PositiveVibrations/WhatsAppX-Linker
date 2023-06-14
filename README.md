@@ -2,7 +2,7 @@
 
 # WhatsAppLinker
 Chrome extension that allows adding phone numbers & social media usernames directly from chrome to:
-WhatsApp, Instagram, Twitter and other social media with a single click
+Currently setup and working for WhatsApp Messenger.
 
 
 To do:
