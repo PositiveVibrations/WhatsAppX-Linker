@@ -1,6 +1,7 @@
 ![Logo](https://github.com/PositiveVibrations/SocialMediaX/blob/main/WhatsAppLinker/images/logo/logo.png?raw=true)
 
-# WhatsAppLinker
+# WhatsAppX
+
 Chrome extension that allows adding phone numbers & social media usernames directly from chrome to:
 Currently setup and working for WhatsApp Messenger.
 
