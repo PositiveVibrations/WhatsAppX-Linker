@@ -1,0 +1,11 @@
+.whatsapp-link {
+  display: inline-block;
+  margin-left: 5px;
+  text-decoration: none;
+}
+
+.whatsapp-logo {
+  width: 28px;
+  height: 28px;
+  vertical-align: middle;
+}
