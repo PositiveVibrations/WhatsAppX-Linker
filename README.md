@@ -2,10 +2,10 @@
 
 # WhatsAppX
 <b>Purpose of Extension</b>
-WhatsApp Messenger lacked the ability contact with people not in your contacts from websites, messages, ect. 
-This extension resolve that.
-<b>Introduction</b>
-Chrome extension that allows adding phone numbers & social media usernames directly from chrome to whatsapp.
+<p>WhatsApp Messenger lacked the ability contact with people not in your contacts from websites, messages, ect. 
+<p>This extension resolve that.
+<p><b>Introduction</b>
+<p>Chrome extension that allows adding phone numbers & social media usernames directly from chrome to whatsapp.
 <hr>
 <b>Features:</b>
 <p>- Currently setup and working for WhatsApp Messenger.
