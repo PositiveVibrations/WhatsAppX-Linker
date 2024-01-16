@@ -33,7 +33,7 @@ We welcome contributions to WhatsAppX! If you have suggestions or improvements, 
 WhatsAppX is released under the [MIT License](LICENSE).
 
 ## Contact
-For questions, suggestions, or collaboration, please reach out to us [here](mailto:your.email@example.com).
+For questions, suggestions, or collaboration, please reach out.
 
 ## Acknowledgments
 A special thank you to all contributors and users of WhatsAppX for your support and feedback.
